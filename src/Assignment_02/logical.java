@@ -12,9 +12,9 @@ public class logical {
         System.out.println("Logical AND operator");
         System.out.println("num7 < num8 && num9 > num4:" + (num7 < num8 && num9 > num4));
 
-    //Logical OR operator}
+        //Logical OR operator}
         System.out.println("Logical OR operator");
         System.out.println("num7 < num8 || num9 > num4:" + (num7 < num8 || num9 > num4));
 
-}
+    }
 }

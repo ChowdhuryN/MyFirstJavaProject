@@ -31,14 +31,7 @@ public class relational {
 
         //Not equal to operator
         System.out.println("Not equal to operator");
-        System.out.println(" num4 != num5:"+ (num4 != num5));
-
-
-
-
-
-
-
+        System.out.println(" num4 != num5:" + (num4 != num5));
 
 
     }
